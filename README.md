@@ -26,8 +26,8 @@ One can search, navigate, and modify data using a parser. It’s versatile and s
 
 ### Program:
 ```
-NAME : Mukil kumar v
-REG NO : 212222230087
+NAME : DANISH NICHO N
+REG NO : 212222040030
 ```
 ```PYTHON
 import requests
